@@ -1,4 +1,4 @@
 # 2020 Election Analytics
 ## Owen Bernstein
 
-### [Introduction](intro.md)
+### [Introduction](posts/intro.md)
